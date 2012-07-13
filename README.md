@@ -10,7 +10,7 @@ Download the class, and drag it into your theme directory.
 
 Next, within `functions.php`, require the class:
 
-    require 'custom-post-helper.php';
+    require 'custom-post-class.php';
 
 #### Create Custom Post Type
 
