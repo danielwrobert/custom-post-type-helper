@@ -1,6 +1,6 @@
 ## Description
 
-This class can be used to help quickly register new Custom Post Types, Taxonomies and Meta Boxes. Based off of tutorials from Tuts+ Premium and WPtuts+ (Links listed below).
+This class can be used to help quickly register new Custom Post Types, Taxonomies and Meta Boxes. Based off of tutorials from Tuts+ Premium and WPtuts+ (*Links listed below*).
 
 *Requires* PHP 5.3 or greater.
 
